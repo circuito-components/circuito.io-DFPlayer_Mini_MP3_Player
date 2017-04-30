@@ -9,7 +9,8 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define DFPLAYER_PIN_RX	11
+#define DFPLAYER_PIN_TX	10
 
 // =======================Pin Definitions // ===================================
 
